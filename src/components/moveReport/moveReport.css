@@ -1,0 +1,31 @@
+.move-report{
+    width: 100%;
+}
+.move-report-one{
+    background-color: var(--main-color);
+    color: #fff;
+    padding: 7px 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.move-report-part{
+    padding: 20px;
+    background-color: #f5f6f9;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.move-report-part div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.move-report-part img{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.move-report-part{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

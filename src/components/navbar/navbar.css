@@ -1,0 +1,53 @@
+nav{
+    padding: 10px 20px;
+}
+.profile-part{
+    position: relative;
+}
+.profile-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.profile-part span{
+    background-color: #28c76f;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.notifications-part{
+    position: relative;
+}
+.notfiy-icon{
+    font-size: 24px;
+    cursor: pointer;
+}
+.notifications-part span{
+  position: absolute;
+  right: -5px;
+  top: -5px;
+  background-color: #ea5455;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+}
+.category-icon{
+    font-size: 24px;
+    cursor: pointer;
+}
+.moon-icon{
+    font-size: 24px;
+    cursor: pointer;
+}
+.usa-flag{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
